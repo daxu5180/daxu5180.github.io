@@ -63,7 +63,7 @@ Service and leadership
 * Workshop Chair for WSDM 2022 
 	* Title: Decision Making for Modern Information Retrieval Systems
 * Session Chair for Informs Annual Meeting, 2021
-	* Title: Causal Inference for Information Retrieval;
+	* Title: Causal Inference for Information Retrieval
 * Program Committee & Reviewer
 	* NeurIPS 2020,2021 / ICLR 2020,2021,2022 / KDD 2020,2021 / SIGIR 2020,2022 / AISTATS
 2020 / ICML2022 / WWW 2022
