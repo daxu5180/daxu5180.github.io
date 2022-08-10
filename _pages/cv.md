@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Statistics, Zhejiang University, 2012-2016
+* Ph.D Student in Statistics, UC Berkeley, 2016-2018
+* Master of Arts in Biostatistics and Statistics, UC Berkeley, 2016-2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2018 – present: Manager of Machine Learning
+  * Walmart Labs
+  * Search & Recommendation Team
+  * Leading ML and DS teams on pattern recognization, decision making, big-data infrastructure,
+and theoretical innovations with deep learning systems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May. 2018 - Aug. 2018: Machine Learning Scientist
+  * Tencent
+  * Social Network Group
+  * Learning and Inference with Deep Causal Network Models
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pytorch
+* Python
+* Tensorflow
+* Spark
+* R
+* C++
+* Hive
+* SQL
+
+  
 
 Publications
 ======
