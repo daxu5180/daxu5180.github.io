@@ -26,17 +26,7 @@ and theoretical innovations with deep learning systems.
 * May. 2018 - Aug. 2018: Machine Learning Scientist, Tencent
   * Social Network Group
   * Learning and Inference with Deep Causal Network Models
-  
-Skills
-======
-* Pytorch
-* Python
-* Tensorflow
-* Spark
-* R
-* C++
-* Hive
-* SQL
+ 
 
   
 
@@ -67,3 +57,15 @@ Service and leadership
 * Program Committee & Reviewer
 	* NeurIPS 2020,2021 / ICLR 2020,2021,2022 / KDD 2020,2021 / SIGIR 2020,2022 / AISTATS
 2020 / ICML2022 / WWW 2022
+
+
+Skills
+======
+* Pytorch
+* Python
+* Tensorflow
+* Spark
+* R
+* C++
+* Hive
+* SQL
