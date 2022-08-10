@@ -18,14 +18,12 @@ Education
 
 Work experience
 ======
-* Aug. 2018 – present: Manager of Machine Learning
-  * Walmart Labs
+* Aug. 2018 – present: Manager of Machine Learning, Walmart Labs
   * Search & Recommendation Team
   * Leading ML and DS teams on pattern recognization, decision making, big-data infrastructure,
 and theoretical innovations with deep learning systems.
 
-* May. 2018 - Aug. 2018: Machine Learning Scientist
-  * Tencent
+* May. 2018 - Aug. 2018: Machine Learning Scientist, Tencent
   * Social Network Group
   * Learning and Inference with Deep Causal Network Models
   
