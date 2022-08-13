@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Da Xu's Personal Website"
+title: "Da (David) Xu"
 excerpt: "About me"
 author_profile: true
 redirect_from:
