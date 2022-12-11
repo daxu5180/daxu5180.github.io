@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio.jpg'>"
+title: "About my family"
+excerpt: "Me and my wife hiking at the Glacier National Park. We have done many hiking, offroading, and other outdoor activities across the U.S., and Utah, Montana, and Alaska are my favoriate destinations so far. My wife find Big Island most attractive, I also can't argue with that considering the snorkeling expeirence and the resorts. <br/><img src='/images/Da-Bo.jpeg'>"
 collection: portfolio
 ---
 
