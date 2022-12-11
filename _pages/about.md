@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my homepage! I am a Staff AI engineer at Linkedin Flagship. Before joining Linkedin, I'm  Machine Learning Manager of the Search & Recommendation team at Walmart Labs. During my stay at Walmart Labs, I have been driving research and realworld productions that advance modern IR systems. In the past several years, my research works that invent theoretical tools for modern IR systems have been published in major ML/AI conferences, including NeurIPS, ICML, ICLR, AAAI. My industrial and application work has been published in such as KDD, WSDM, and WWW.
+Welcome to my homepage! I am a Staff AI engineer at LinkedIn Flagship. Before joining Linkedin, I'm  Machine Learning Manager of the Search & Recommendation team at Walmart Labs. During my stay at Walmart Labs, I have been driving research and realworld productions that advance modern IR systems. In the past several years, my research works that invent theoretical tools for modern IR systems have been published in major ML/AI conferences, including NeurIPS, ICML, ICLR, AAAI. My industrial and application work has been published in such as KDD, WSDM, and WWW.
 
 I am now leading a team of research scientists and ML engineers that revolutionize the IR system of Walmart.com. My team has filed several patents documenting production innovations. My contribution to the IR community has been long recognized, and I have been invited as the keynote speaker for various events in KDD, ICML, and INFORMS.
 
