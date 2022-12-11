@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Da Xu / Staff AI engineer @ LinkedIn"
+title                    : "Da Xu / Staff AI Engineer @ LinkedIn"
 title_separator          : "-"
 name                     : &name "Da xu"
 description              : &description "Staff AI engineer, LinkedIn"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Da Xu"
   avatar           : "Da.jpeg"
-  bio              : "ML Manager @ Walmart Labs"
+  bio              : "Staff AI Engineer @ LinkedIn"
   location         : "Bay Area"
   employer         :
   pubmed           : 
