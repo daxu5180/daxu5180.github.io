@@ -4,7 +4,7 @@ collection: teaching
 type: "Industrial tutorial"
 permalink: /teaching/Recsys-teaching
 venue: "Walmart Labs"
-date: 2022
+date: 2022-08-01
 location: "CA, USA"
 ---
 
