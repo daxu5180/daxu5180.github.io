@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Greetings! I am Da Xu, and I extend a warm welcome to my homepage. At present, I am a Staff AI Engineer at LinkedIn Network Growth AI. Prior to my current position, I was a Machine Learning Manager in the Search & Recommendation team at Walmart Labs. Over the years, I have been actively involved in driving real-world ML productions, developing foundational solutions for emerging issues, and bridging the gap between academic research and practical recommender systems (Recsys).
+Some of my research efforts have been published in NeurIPS, ICML, ICLR, AAAI, and several applicational works have been published in KDD, WSDM, and WWW.
 
-Welcome to my homepage! I am a Staff AI engineer at LinkedIn Flagship. Before joining Linkedin, I'm  Machine Learning Manager of the Search & Recommendation team at Walmart Labs. During my stay at Walmart Labs, I have been driving research and realworld productions that advance modern IR systems. In the past several years, my research works that invent theoretical tools for modern IR systems have been published in major ML/AI conferences, including NeurIPS, ICML, ICLR, AAAI. My industrial and application work has been published in such as KDD, WSDM, and WWW.
+My interest in Recsys and industrial ML has motivated me to explore the fundamentals of these domains. I am lucky to come across many scholars and practitioners share similar interests, which motivates me to actively organize events and bring together individuals to investigate various problems. Some of the events I have organized include the INFORMS session on "Causal Inference Analysis for Information Retrieval," the 1st and 2nd "Workshop on Decision Making for Information Retrieval (IR) and Recsys," and a tutorial on "Theoretical Foundation of IR and Recsys."
 
-I am now leading a team of research scientists and ML engineers that revolutionize the IR system of Walmart.com. My team has filed several patents documenting production innovations. My contribution to the IR community has been long recognized, and I have been invited as the keynote speaker for various events in KDD, ICML, and INFORMS.
+While fulfilling my duties at LinkedIn is my top priority, many of the products I am involved in have broader implications for the industry and the community. Going forward, I hope to contribute more foundational research, organize public events, and provide personal feedback through blog posts to readers who share my interest.
 
-I am hornored to be designated by the INFORMS committee as the session chair of "Causal Inference Analysis for Information Retrieval" for 2021 and 2022. I am also actively engaged in public services. He organized the WSDM Workshop on "Decision Making for Information Retrieval Analysis", and the WSDM tutorial on a similar topic. I am also serving as reviewers and PC for such as NeurIPS, ICML, ICLR, KDD, SIGIR, WWW.
+
+
 
