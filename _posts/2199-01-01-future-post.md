@@ -1,11 +1,11 @@
 ---
-title: 'System Thinking in E-commerce ML'
+title: 'System Thinking in Productionizing ML'
 date: 2022-12-01
 permalink: 
 tags:
   - Machine Learning
   - System Thinking
-  - Industrial Production
+  - Real-world Production
 ---
 
 Over the past year, I have been actively advocating for the use of system thinking in the design and development of industrial ML systems. This blog post serves as a documentation of my thought processes.
