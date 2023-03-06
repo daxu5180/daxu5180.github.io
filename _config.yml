@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Da Xu / Statistics, ML, Recsys, GenAI"
+title                    : "Da Xu / ML, Stats, Recsys, GenAI"
 title_separator          : "-"
 name                     : &name "Da xu"
 description              : &description "Staff AI engineer, LinkedIn"
