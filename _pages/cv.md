@@ -15,7 +15,7 @@ Education
 
 * Master of Arts in Biostatistics and Statistics, UC Berkeley, 2016-2018
 * Ph.D Student in Statistics, UC Berkeley, 2016-2018
-* Bachelor of Science in Statistics, Zhejiang University, 2012-2016
+* Chu Ko Chen Honors College, Bachelor of Science in Statistics, Zhejiang University, 2012-2016
 
 
 Work experience
